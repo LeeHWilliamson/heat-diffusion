@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ios": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp",
+        "terminal.integrated.defaultProfile.windows": "Command Prompt",
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "terminal.integrated.defaultProfile.osx": "bash"
+    }
+}
