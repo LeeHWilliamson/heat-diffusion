@@ -147,7 +147,7 @@ void generateTempGrid(double maxTemp, double tempArray[][TEMPARRAYLENGTH])
 void printTempGrid(double tempArray[][TEMPARRAYLENGTH])
 {
     ofstream outFile;
-    outFile.open("output1.txt");
+    outFile.open("HeatGrid.csv");
 
     for (int i = 0; i < TEMPARRAYLENGTH; i++)
     {
